@@ -1,6 +1,8 @@
 ## Hi I'm Jolivet <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/7ed7d5ca074b48b328150e5a231e8d1f.gif" width="28px" alt="hi">
 
-
+I am passionate and experienced software developer over more than 4 years of experience in
+tech industry and currently pursuing Bachelor of Science in information technology from University
+of Rwanda. He is eager to take challenges that enhance his personal and professional skills.
 
 - :computer:  I’m currently learning Django Framework, flutter Framework, java language.
 - 💬 Ask me about Flutter ,Django, UI/UX and any Tech related stuff.
