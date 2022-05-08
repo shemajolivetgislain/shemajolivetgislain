@@ -7,6 +7,7 @@ of Rwanda. He is eager to take challenges that enhance his personal and professi
 - :computer:  I’m currently learning Django Framework, flutter Framework, java language.
 - 💬 Ask me about Flutter ,Django, UI/UX and any Tech related stuff.
 - 📫 How to reach me: shemajolivet@gmail.com.
+- 😄 Pronouns: His/Him.
 
 
 ### :chart_with_upwards_trend: Shema jolivet's Github stats
