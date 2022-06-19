@@ -5,10 +5,7 @@ I am passionate and experienced software developer over more than 4 years of exp
 tech industry and currently pursuing Bachelor of Science in information technology from University
 of Rwanda. He is eager to take challenges that enhance his personal and professional skills.
 
-- :computer:  I’m currently learning Django Framework, flutter Framework, java language.
-- 💬 Ask me about Flutter ,Django, UI/UX and any Tech related stuff.
-- 📫 How to reach me: shemajolivet@gmail.com.
-- 😄 Pronouns: His/Him.
+
 
 ### :chart_with_upwards_trend: Shema jolivet's Github stats
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=shemajolivetgislain&show_icons=true&count_private=true&theme=highcontrast)
