@@ -10,6 +10,7 @@ of Rwanda. He is eager to take challenges that enhance his personal and professi
 - 📫 How to reach me: shemajolivet@gmail.com.
 - 😄 Pronouns: His/Him.
 
+
 ### :chart_with_upwards_trend: Shema jolivet's Github stats
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=shemajolivetgislain&show_icons=true&count_private=true&theme=highcontrast)
 ![Anurag's GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=shemajolivetgislain&&theme=highcontrast)
