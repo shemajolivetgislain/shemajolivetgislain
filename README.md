@@ -15,7 +15,6 @@ of Rwanda. He is eager to take challenges that enhance his personal and professi
 ![Anurag's GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=shemajolivetgislain&&theme=highcontrast)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shemajolivetgislain&layout=compact&hide=less,scss,css,html&theme=highcontrast&show_icons=true)](https://github.com/shemajolivetgislain/github-readme-stats)
 
-
 ## :punch: Connect with me  
 <a href="https://twitter.com/shemajolivet1" target="_blank">
 <img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
