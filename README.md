@@ -4,7 +4,6 @@ I am passionate and experienced software developer over more than 3 years of exp
 tech industry and currently pursuing Bachelor of Science in information technology from University
 of Rwanda. He is eager to take challenges that enhance his personal and professional skills.
 
-
 - :computer:  I’m currently learning Django Framework, flutter Framework, java language.
 - 💬 Ask me about Flutter ,Django, UI/UX and any Tech related stuff.
 - 📫 How to reach me: shemajolivet@gmail.com.
