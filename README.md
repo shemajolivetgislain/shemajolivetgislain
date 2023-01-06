@@ -1,5 +1,5 @@
 ## Hi I'm Jolivet 
-<img src="[https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/7ed7d5ca074b48b328150e5a231e8d1f.gif]" width="15px" alt="hi">
+<img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/7ed7d5ca074b48b328150e5a231e8d1f.gif" width="15px" alt="hi">
 I am passionate and experienced software developer over more than 2 years of experience in
 tech industry and currently pursuing Bachelor of Science in information technology from University
 of Rwanda. He is eager to take challenges that enhance his personal and professional skills.
