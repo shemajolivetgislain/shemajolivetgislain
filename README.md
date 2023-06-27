@@ -1,9 +1,7 @@
 ## Hi I'm Jolivet 
 <!-- <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/7ed7d5ca074b48b328150e5a231e8d1f.gif"  alt="hi"> -->
 <img src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif"  alt="hi">
-I am passionate and experienced software developer over more than 2 years of experience in
-tech industry and currently pursuing Bachelor of Science in information technology from University
-of Rwanda. He is eager to take challenges that enhance his personal and professional skills.
+As a driven Software Developer with a Bachelor's degree in Information Technology and significant experience in the computer software industry, I am eager to explore new opportunities to expand my skill set. With my extensive programming expertise and excellent communication skills, I have successfully collaborated with distributed teams to manage and enhance business projects. My passion for continuous learning and technical support motivates me to help others overcome their challenges in the constantly evolving IT industry.
 
 - :computer:  I’m currently learning Django Framework, flutter Framework, java language.
 - 💬 Ask me about Flutter ,Django, UI/UX and any Tech related stuff.
