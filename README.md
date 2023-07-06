@@ -3,13 +3,13 @@
 <img src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif"  alt="hi">
 As a driven Software Developer with a Bachelor's degree in Information Technology and significant experience in the computer software industry, I am eager to explore new opportunities to expand my skill set. With my extensive programming expertise and excellent communication skills, I have successfully collaborated with distributed teams to manage and enhance business projects. My passion for continuous learning and technical support motivates me to help others overcome their challenges in the constantly evolving IT industry.
 
-- :computer:  I’m currently learning Django Framework, flutter Framework, java language.
+- :computer:  I’m currently learning Django Framework, flutter Framework, and Java language.
 - 💬 Ask me about React, Django, UI/UX, and any Tech related stuff.
 - 📫 How to reach me: shemajolivet@gmail.com.
 - 😄 Pronouns: His/Him.
 
 
-### :chart_with_upwards_trend: Shema jolivet's Github stats
+### :chart_with_upwards_trend: Shema Jolivet's Github stats
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=shemajolivetgislain&show_icons=true&count_private=true&theme=highcontrast)
 ![Anurag's GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=shemajolivetgislain&&theme=highcontrast)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shemajolivetgislain&layout=compact&hide=less,scss,css,html&theme=highcontrast&show_icons=true)](https://github.com/shemajolivetgislain/github-readme-stats)
