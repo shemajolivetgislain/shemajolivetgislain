@@ -24,3 +24,4 @@ As a driven Software Developer with a Bachelor's degree in Information Technolog
 <a href="https://instagram.com/shemajolivet" target="_blank">
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a> 
+
