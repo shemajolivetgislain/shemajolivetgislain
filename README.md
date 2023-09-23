@@ -4,7 +4,7 @@
 As a driven Software Developer with a Bachelor's degree in Information Technology and significant experience in the computer software industry, I am eager to explore new opportunities to expand my skill set. With my extensive programming expertise and excellent communication skills, I have successfully collaborated with distributed teams to manage and enhance business projects. My passion for continuous learning and technical support motivates me to help others overcome their challenges in the constantly evolving IT industry.
 
 
-- :computer:  I’m currently learning Django Framework, flutter Framework, and Java language.
+- :computer:  I’m currently learning flutter Framework and Java language.
 - 💬 Ask me about React, Node.js, Django, UI/UX, and any Tech related stuff.
 - 📫 How to reach me: shemajolivet@gmail.com.
 - 😄 Pronouns: His/Him.
