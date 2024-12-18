@@ -1,13 +1,14 @@
 ## Hi I'm Jolivet 
 <!-- <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/7ed7d5ca074b48b328150e5a231e8d1f.gif"  alt="hi"> -->
 <img src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif"  alt="hi">
-As a driven Software Developer with a Bachelor's degree in Information Technology and significant experience in the computer software industry, I am eager to explore new opportunities to expand my skill set. With my extensive programming expertise and excellent communication skills, I have successfully collaborated with distributed teams to manage and enhance business projects. My passion for continuous learning and technical support motivates me to help others overcome their challenges in the constantly evolving IT industry.
+I'm a software developer with 4+ years of experience in building cloud-based applications and a strong background in UI/UX design. I specialize in frontend development using React and Next.js, with additional experience in backend frameworks like Django and Node.js. I also work with mobile app development using Flutter.
 
-- :computer:  I’m currently learning Java language.
+With a Bachelor's degree in IT, I'm skilled in JavaScript, TypeScript, Python, and Dart. My goal is to create intuitive, user-friendly products that solve real problems, and I enjoy learning and growing with new technologies.
+
+- :computer: https://jolivet-porfolio.vercel.app/
 - 💬 Ask me about React, Node.js, Django, UI/UX, and any Tech related stuff.
 - 📫 How to reach me: shemajolivet@gmail.com.
 - 😄 Pronouns: His/Him.
-
   
 ### :chart_with_upwards_trend: Shema Jolivet's Github stats
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=shemajolivetgislain&show_icons=true&count_private=true&theme=highcontrast)
