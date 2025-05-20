@@ -5,7 +5,7 @@ I'm a software developer with 4+ years of experience in building cloud-based app
 
 With a Bachelor's degree in IT, I'm skilled in JavaScript, TypeScript, Python, and Dart. My goal is to create intuitive, user-friendly products that solve real problems, and I enjoy learning and growing with new technologies.
 
-- :computer: https://jolivet-porfolio.vercel.app/
+- :computer: https://jolivetshema.com/
 - 💬 Ask me about React, Node.js, Django, UI/UX, and any Tech related stuff.
 - 📫 How to reach me: shemajolivet@gmail.com.
 - 😄 Pronouns: His/Him.
